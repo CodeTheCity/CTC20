@@ -1,5 +1,5 @@
 # CTC20
-The home repository for [CTC20: History and Culture](https://codethecity.org/what-we-do/hack-weekends/code-the-city-20-history-and-culture/), which is the weekend of 1-2, August 2020. This follows on from [CTC19: History + Data = Innovation](https://codethecity.org/what-we-do/hack-weekends/code-the-city-19-history-data-innovation/) which was our first online co-design and hack event over the weekend of 11/12 April 2020. 
+The home repository for [CTC20: History and Culture](https://codethecity.org/what-we-do/hack-weekends/code-the-city-20-history-and-culture/), which was the weekend of 1-2, August 2020. This follows on from [CTC19: History + Data = Innovation](https://codethecity.org/what-we-do/hack-weekends/code-the-city-19-history-data-innovation/) which was our first online co-design and hack event over the weekend of 11/12 April 2020. 
 
 On Saturday, 1 August, we had 21 participants working on six challenges. On Sunday, 2 August, we had 16 participants working on four challenges as the team looking at the convict register didn't return. The work focused on moving data into WikiData, as well as how to make visualisations of some of the assembled data. 
 
